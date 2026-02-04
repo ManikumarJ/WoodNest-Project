@@ -1,11 +1,10 @@
-import Navbar from "./components/NavBar";
-import AppRoutes from "./routes/Approutes";
-
+import NavBar from "./components/NavBar";
+import AppRoutes from "./routes/AppRoutes";
 
 const App = () => {
   return (
     <>
-      <Navbar/>
+      <NavBar/>
       <AppRoutes/>
     </>
   );

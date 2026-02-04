@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-const Navbar = () => {
+const NavBar = () => {
   return (
     <nav className="bg-[#0F2A1D] text-white">
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
@@ -40,4 +40,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default NavBar;
