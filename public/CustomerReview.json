@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "productId": 1,
+    "name": "Rahul Sharma",
+    "rating": 5,
+    "comment": "Amazing quality and very comfortable sofa. Worth the price!",
+    "date": "2026-02-01"
+  },
+  {
+    "id": 2,
+    "productId": 1,
+    "name": "Priya Verma",
+    "rating": 4,
+    "comment": "Good design and finish. Delivery was quick.",
+    "date": "2026-02-03"
+  },
+  {
+    "id": 3,
+    "productId": 2,
+    "name": "Arjun Kumar",
+    "rating": 5,
+    "comment": "Dining table looks premium and strong. Highly recommended.",
+    "date": "2026-02-05"
+  },
+  {
+    "id": 4,
+    "productId": 3,
+    "name": "Sneha Reddy",
+    "rating": 4,
+    "comment": "Bed is very comfortable and stylish.",
+    "date": "2026-02-06"
+  },
+  {
+    "id": 5,
+    "productId": 1,
+    "name": "Anita Das",
+    "rating": 3,
+    "comment": "The sofa is good but delivery was delayed by a week.",
+    "date": "2026-02-07"
+  }
+]
