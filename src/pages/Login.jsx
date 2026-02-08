@@ -7,7 +7,7 @@ const Login = () => {
     <div className="min-h-screen flex items-center justify-center bg-[#0F2A1D]">
       <div className="bg-white p-8 rounded-lg w-full max-w-md relative">
 
-        <button onClick={() => navigate(-1)} className="absolute top-4 left-4 text-sm text-gray-600 hover:text-black">
+        <button onClick={() => navigate("/")} className="absolute top-4 left-4 text-sm text-gray-600 hover:text-black">
           Back
         </button>
 
