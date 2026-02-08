@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Modern Light Blue Sofa",
     "price": 24999,
-    "image": "/images/1.jpg",
+    "image": "1.jpg",
     "category": "Sofa",
     "rating": 4.5,
     "stock": 10
@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Wooden Dining Table",
     "price": 18999,
-    "image": "/images/2.jpg",
+    "image": "2.jpg",
     "category": "Table",
     "rating": 4.2,
     "stock": 5
@@ -21,7 +21,7 @@
     "id": 3,
     "name": "Luxury Bed",
     "price": 32999,
-    "image": "/images/3.jpg",
+    "image": "3.jpg",
     "category": "Bed",
     "rating": 4.8,
     "stock": 7
@@ -30,7 +30,7 @@
     "id": 4,
     "name": "Office Chair",
     "price": 8999,
-    "image": "/images/4.jpg",
+    "image": "4.jpg",
     "category": "Chair",
     "rating": 4.1,
     "stock": 15
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "Premium Recliner Sofa",
     "price": 28999,
-    "image": "/images/5.jpg",
+    "image": "5.jpg",
     "category": "Sofa",
     "rating": 4.6,
     "stock": 8
@@ -48,7 +48,7 @@
     "id": 6,
     "name": "Glass Coffee Table",
     "price": 9999,
-    "image": "/images/6.jpg",
+    "image": "6.jpg",
     "category": "Table",
     "rating": 4.3,
     "stock": 12
@@ -57,7 +57,7 @@
     "id": 7,
     "name": "King Size Wooden Bed",
     "price": 35999,
-    "image": "/images/7.jpg",
+    "image": "7.jpg",
     "category": "Bed",
     "rating": 4.7,
     "stock": 6
@@ -66,7 +66,7 @@
     "id": 8,
     "name": "Ergonomic Office Chair",
     "price": 10999,
-    "image": "/images/8.jpg",
+    "image": "8.jpg",
     "category": "Chair",
     "rating": 4.4,
     "stock": 14
@@ -75,7 +75,7 @@
     "id": 9,
     "name": "Compact Study Table",
     "price": 7999,
-    "image": "/images/9.jpg",
+    "image": "9.jpg",
     "category": "Table",
     "rating": 4.0,
     "stock": 9
@@ -84,7 +84,7 @@
     "id": 10,
     "name": "Luxury Leather Sofa",
     "price": 42999,
-    "image": "/images/10.jpg",
+    "image": "10.jpg",
     "category": "Sofa",
     "rating": 4.9,
     "stock": 4
@@ -93,7 +93,7 @@
     "id": 11,
     "name": "Minimalist Bed Frame",
     "price": 27999,
-    "image": "/images/11.jpg",
+    "image": "11.jpg",
     "category": "Bed",
     "rating": 4.3,
     "stock": 11
