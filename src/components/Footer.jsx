@@ -36,7 +36,7 @@ const Footer = () => {
       </div>
 
       <div className="mt-10 text-center text-gray-400 text-sm">
-        © {new Date().getFullYear()} WoodNest. All rights reserved.
+         WoodNest. All rights reserved.
       </div>
     </footer>
   );
