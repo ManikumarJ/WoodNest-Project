@@ -15,7 +15,7 @@
       "price": 18999,
       "image": "/images/2.jpg",
       "category": "Table",
-      "rating": 4.2,
+      "rating": 4,
       "stock": 5
     },
     {
@@ -33,7 +33,7 @@
       "price": 8999,
       "image": "/images/4.jpg",
       "category": "Chair",
-      "rating": 4.1,
+      "rating": 3.6,
       "stock": 15
     },
     {
@@ -42,7 +42,7 @@
       "price": 28999,
       "image": "/images/5.jpg",
       "category": "Sofa",
-      "rating": 4.6,
+      "rating": 4.1,
       "stock": 8
     },
       {
@@ -96,7 +96,7 @@
       "price": 27999,
       "image": "/images/11.jpg",
       "category": "Bed",
-      "rating": 4.3,
+      "rating": 3,
       "stock": 11
     }
   ]
