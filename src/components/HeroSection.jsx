@@ -19,7 +19,7 @@ const HeroSection = () => {
             Transform your home into a modern sanctuary with Furnisia.
           </p>
 
-          <button className="w-40 bg-[#064232] text-white px-6 py-3 rounded-lg font-semibold hover:bg-[#9AE6B4] hover:text-[#0F2A1D] transition">
+          <button className="w-40 bg-[#064232] text-white px-6 py-3 border border-black rounded-lg font-semibold hover:bg-[#9AE6B4] hover:text-[#0F2A1D] transition">
             Shop Now
           </button>
         </div>
